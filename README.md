@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ### Configuration:
 A `config.ini` file will be created on the first run. You need to set your **Bot Token** and **Server ID** there:
 ```ini
-[Xeecida Nuke]
+[Dexedus Nuke]
 TOKEN = your_discord_bot_token_here
 GUILD = your_discord_server_id_here
 ```
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ### การตั้งค่า:
 จะสร้างไฟล์ `config.ini` อัตโนมัติเมื่อเปิดใช้งานครั้งแรก ให้เพิ่ม Bot Token และ Server ID ของคุณลงไป:
 ```ini
-[Xeecida Nuke]
+[Dexedus Nuke]
 TOKEN = ใส่โทเค็นบอทของคุณที่นี่
 GUILD = ใส่ไอดีเซิร์ฟเวอร์ของคุณที่นี่
 ```
