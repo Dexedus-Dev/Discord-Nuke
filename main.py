@@ -105,9 +105,9 @@ def set_cmd_size(width, height):
 async def create_channel(guild, name: str):
     try:
         chan = await guild.create_text_channel(name)
-        log(1, f'Channel ID: \033[91m{chan.id}\033[0m created successfully")')
+        log(1, f'Channel ID: \033[91m{chan.id}\033[0m created successfully')
     except:
-        log(2, f'Channel ID: \033[91m{chan.id}\033[0m created Failed")')
+        log(2, f'Channel ID: \033[91m{chan.id}\033[0m created Failed')
 
 
 async def create_voice(guild, name: str):
