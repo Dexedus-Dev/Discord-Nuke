@@ -22,8 +22,8 @@
 - And more...
 
 ### Requirements:
-- Python 3.9+
 - Window
+- Python 3.9+
 - `discord.py`
 - `pystyle`
 
