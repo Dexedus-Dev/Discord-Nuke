@@ -1,0 +1,4 @@
+discord.py==2.4.0
+pystyle==2.9
+fade==0.0.9
+configparser==7.1.0
