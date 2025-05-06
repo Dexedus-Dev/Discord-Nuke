@@ -13,7 +13,7 @@ import ctypes
 config = ConfigParser()
 config.optionxform = str
 if not os.path.exists('config.ini'):
-    config['Xeecida Nuke'] = {
+    config['Dexedus Nuke'] = {
         'TOKEN': '',
         'GUILD': ''
     }
