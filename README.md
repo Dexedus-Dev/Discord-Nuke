@@ -23,9 +23,9 @@
 
 ### Requirements:
 - Python 3.9+
+- Window
 - `discord.py`
 - `pystyle`
-- `Window`
 
 ### Setup:
 ```bash
